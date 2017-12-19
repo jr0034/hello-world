@@ -8,6 +8,7 @@ int main()
   int y = 3;
   int num2 = 40;
   int iceCreamFlavor = 30;
-  short shortMan = 70;
+  long longMan = 7000;
+  printf("slfkjlkjflksjdflsjflsjdf");
   return 0;
 }
